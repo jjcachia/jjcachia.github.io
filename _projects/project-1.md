@@ -1,6 +1,6 @@
 ---
 title: "Explainable Machine Learning for Lung Cancer Nodule Classification"
-excerpt: "Short description of project item number 1<br/><img src='/images/prototypez.png'>"
+excerpt: "Short description of project item number 1<br/><img src='/images/500x300.png'>"
 collection: projects
 ---
 
