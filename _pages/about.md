@@ -3,8 +3,8 @@ permalink: /
 title: "About me"
 author_profile: true
 redirect_from: 
-  - /
-  - /
+  - /about/
+  - /about.html
 ---
 
 I am a Researcher at the Centre of Biomedical Cybernetics, Department of Systems and Control, at the University of Malta, and a recent graduate from Imperial College London. I obtained an M.Sc. in Signal Processing from Imperial College London in 2024, following a B.Sc. in Computer Engineering with First Class Honours from the University of Malta.
